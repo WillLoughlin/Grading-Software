@@ -1,0 +1,115 @@
+ExampleClass1
+16
+Arya Stark
+Catelyn Stark
+Cersei Lannister
+Daenerys Targaryen
+Eddard Stark
+Jaime Lannister
+John Snow
+Khal Drogo
+Robert Baratheon
+Robb Stark
+Sansa Stark
+Samwell Tarly
+Theon Greyjoy
+The Hound
+Tormund
+Zombie Mountain
+---
+Arya Stark
+0;Homework 1,10.000000,10.000000
+1
+2;Test 1,100.000000,99.000000
+3
+4
+Catelyn Stark
+0;Homework 1,10.000000,10.000000
+1
+2;Test 1,100.000000,89.000000
+3
+4
+Cersei Lannister
+0;Homework 1,10.000000,7.000000
+1
+2;Test 1,100.000000,78.000000
+3
+4
+Daenerys Targaryen
+0;Homework 1,10.000000,9.000000
+1
+2;Test 1,100.000000,98.000000
+3
+4
+Eddard Stark
+0;Homework 1,10.000000,10.000000
+1
+2;Test 1,100.000000,67.000000
+3
+4
+Jaime Lannister
+0;Homework 1,10.000000,4.000000
+1
+2;Test 1,100.000000,78.000000
+3
+4
+John Snow
+0;Homework 1,10.000000,5.000000
+1
+2;Test 1,100.000000,67.000000
+3
+4
+Khal Drogo
+0;Homework 1,10.000000,2.000000
+1
+2;Test 1,100.000000,98.000000
+3
+4
+Robert Baratheon
+0;Homework 1,10.000000,3.000000
+1
+2;Test 1,100.000000,90.000000
+3
+4
+Robb Stark
+0;Homework 1,10.000000,9.000000
+1
+2;Test 1,100.000000,67.000000
+3
+4
+Sansa Stark
+0;Homework 1,10.000000,9.000000
+1
+2;Test 1,100.000000,99.000000
+3
+4
+Samwell Tarly
+0;Homework 1,10.000000,9.000000
+1
+2;Test 1,100.000000,100.000000
+3
+4
+Theon Greyjoy
+0;Homework 1,10.000000,4.000000
+1
+2;Test 1,100.000000,45.000000
+3
+4
+The Hound
+0;Homework 1,10.000000,1.000000
+1
+2;Test 1,100.000000,78.000000
+3
+4
+Tormund
+0;Homework 1,10.000000,0.000000
+1
+2;Test 1,100.000000,89.000000
+3
+4
+Zombie Mountain
+0;Homework 1,10.000000,1.000000
+1
+2;Test 1,100.000000,67.000000
+3
+4

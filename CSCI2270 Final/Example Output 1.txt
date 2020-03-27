@@ -1,0 +1,672 @@
+﻿willloughlin:~/workspace/FinalProject2270 $ g++ -std=c++11 main.cpp Class.cpp Student.cpp GradeType.cpp -o run
+willloughlin:~/workspace/FinalProject2270 $ ./run
+
+
+----MAIN MENU----
+1: Load a Class from File
+2: Create a new Class
+3: Print Current Classes
+4: Open a Class
+5: Remove a Class
+6: Help
+7: Quit
+2
+Enter a new class name:
+ExampleClass1
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+1
+
+
+--------Class: ExampleClass1--------
+1: Add students from file
+2: Add single student
+3: Remove single student
+4: Remove all students
+5: Print current students
+Enter a choice 1-5: 
+1
+Enter file name: 
+names.txt
+Adding Eddard Stark
+Adding Robert Baratheon
+Adding Jaime Lannister
+Adding Catelyn Stark
+Adding Cersei Lannister
+Adding Daenerys Targaryen
+Adding Sansa Stark
+Adding John Snow
+Adding Arya Stark
+Adding Robb Stark
+Adding Theon Greyjoy
+Adding The Hound
+Adding The Mountain
+Adding Tormund
+Adding Samwell Tarly
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+1
+
+
+--------Class: ExampleClass1--------
+1: Add students from file
+2: Add single student
+3: Remove single student
+4: Remove all students
+5: Print current students
+Enter a choice 1-5: 
+2
+Enter name of student to be added: 
+Khal Drogo 
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+2
+
+
+--------Class: ExampleClass1--------
+1: Add grade to all students
+2: Add grade to one student
+3: Remove specific grade from all students
+4: Remove specific grade from single student
+5: Edit specific grade of specific student
+Enter a choice 1-5: 
+1
+
+
+Enter 0 to add a Homework grade.
+Enter 1 to add a Quiz grade.
+Enter 2 to add a Test grade.
+Enter 3 to  add a Project grade.
+Enter 4 to add an Attendance grade.
+0
+Enter grade name:
+Homework 1
+Enter Points Possible for this grade.
+10
+Enter points earned for Arya Stark on Homework 1
+10
+Homework 1 added successfully to Homework
+Enter points earned for Catelyn Stark on Homework 1
+10
+Homework 1 added successfully to Homework
+Enter points earned for Cersei Lannister on Homework 1
+7
+Homework 1 added successfully to Homework
+Enter points earned for Daenerys Targaryen on Homework 1
+9
+Homework 1 added successfully to Homework
+Enter points earned for Eddard Stark on Homework 1
+10
+Homework 1 added successfully to Homework
+Enter points earned for Jaime Lannister on Homework 1
+4
+Homework 1 added successfully to Homework
+Enter points earned for John Snow on Homework 1
+5
+Homework 1 added successfully to Homework
+Enter points earned for Khal Drogo on Homework 1
+2
+Homework 1 added successfully to Homework
+Enter points earned for Robert Baratheon on Homework 1
+3
+Homework 1 added successfully to Homework
+Enter points earned for Robb Stark on Homework 1
+7
+Homework 1 added successfully to Homework
+Enter points earned for Sansa Stark on Homework 1
+9
+Homework 1 added successfully to Homework
+Enter points earned for Samwell Tarly on Homework 1
+9
+Homework 1 added successfully to Homework
+Enter points earned for Theon Greyjoy on Homework 1
+4
+Homework 1 added successfully to Homework
+Enter points earned for The Hound on Homework 1
+1
+Homework 1 added successfully to Homework
+Enter points earned for The Mountain on Homework 1
+0
+Homework 1 added successfully to Homework
+Enter points earned for Tormund on Homework 1
+0
+Homework 1 added successfully to Homework
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+3
+
+
+--------Class: ExampleClass1--------
+1: print single grade single student
+2: print all grades single student
+3: print single grade all students
+4: print total class average
+5: print single student average
+6: print single assignment average
+Enter a choice 1-6: 
+6
+
+
+Enter 0 to print a Homework grade.
+Enter 1 to print a Quiz grade.
+Enter 2 to print a Test grade.
+Enter 3 to  print a Project grade.
+Enter 4 to print an Attendance grade.
+Enter a number 0-4:
+0
+Enter Assignment Name:
+Homework 1
+Average for Homework 1 = 56.25%
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+1
+
+
+--------Class: ExampleClass1--------
+1: Add students from file
+2: Add single student
+3: Remove single student
+4: Remove all students
+5: Print current students
+Enter a choice 1-5: 
+3
+Enter name of student to be removed: 
+The Mountain
+The Mountain removed from class
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+1
+
+
+--------Class: ExampleClass1--------
+1: Add students from file
+2: Add single student
+3: Remove single student
+4: Remove all students
+5: Print current students
+Enter a choice 1-5: 
+2
+Enter name of student to be added: 
+Zombie Mountain
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+1
+
+
+--------Class: ExampleClass1--------
+1: Add students from file
+2: Add single student
+3: Remove single student
+4: Remove all students
+5: Print current students
+Enter a choice 1-5: 
+5
+16 Students in ExampleClass1
+Arya Stark
+Catelyn Stark
+Cersei Lannister
+Daenerys Targaryen
+Eddard Stark
+Jaime Lannister
+John Snow
+Khal Drogo
+Robert Baratheon
+Robb Stark
+Sansa Stark
+Samwell Tarly
+Theon Greyjoy
+The Hound
+Tormund
+Zombie Mountain
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+2
+
+
+--------Class: ExampleClass1--------
+1: Add grade to all students
+2: Add grade to one student
+3: Remove specific grade from all students
+4: Remove specific grade from single student
+5: Edit specific grade of specific student
+Enter a choice 1-5: 
+2
+Enter student name:
+Zombie Mountain
+Enter grade name:
+Homework 1
+Enter 0 to add a Homework grade.
+Enter 1 to add a Quiz grade.
+Enter 2 to add a Test grade.
+Enter 3 to  add a Project grade.
+Enter 4 to add an Attendance grade.
+0
+Enter Points Possible for this grade.
+10
+Enter Points Earned for this grade.
+1
+Homework 1 added successfully to Homework
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+2
+
+
+--------Class: ExampleClass1--------
+1: Add grade to all students
+2: Add grade to one student
+3: Remove specific grade from all students
+4: Remove specific grade from single student
+5: Edit specific grade of specific student
+Enter a choice 1-5: 
+5
+Enter student name:
+Robb Stark
+Enter 0 to change a Homework grade.
+Enter 1 to change a Quiz grade.
+Enter 2 to change a Test grade.
+Enter 3 to  change a Project grade.
+Enter 4 to change an Attendance grade.
+0
+Enter assignment name: 
+Homework 1
+Enter a new Points Possible for this grade
+10
+Enter a new Points Earned for this grade
+9
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+3
+
+
+--------Class: ExampleClass1--------
+1: print single grade single student
+2: print all grades single student
+3: print single grade all students
+4: print total class average
+5: print single student average
+6: print single assignment average
+Enter a choice 1-6: 
+1
+Enter name of student: 
+Robb Stark
+Enter name of assignment: 
+Homework 1
+
+
+What kind of grade is it?
+0: Homework
+1: Quiz
+2: Test
+3: Project
+4: Attendance
+Enter a number 0-4:
+0
+Robb Stark: --Homework 1--
+Points Possible: 10
+Points Earned: 9
+Percent: 90%
+
+
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+2
+
+
+--------Class: ExampleClass1--------
+1: Add grade to all students
+2: Add grade to one student
+3: Remove specific grade from all students
+4: Remove specific grade from single student
+5: Edit specific grade of specific student
+Enter a choice 1-5: 
+1
+
+
+Enter 0 to add a Homework grade.
+Enter 1 to add a Quiz grade.
+Enter 2 to add a Test grade.
+Enter 3 to  add a Project grade.
+Enter 4 to add an Attendance grade.
+2
+Enter grade name:
+Test 1
+Enter Points Possible for this grade.
+100
+Enter points earned for Arya Stark on Test 1
+99
+Test 1 added successfully to Tests
+Enter points earned for Catelyn Stark on Test 1
+89
+Test 1 added successfully to Tests
+Enter points earned for Cersei Lannister on Test 1
+78
+Test 1 added successfully to Tests
+Enter points earned for Daenerys Targaryen on Test 1
+98
+Test 1 added successfully to Tests
+Enter points earned for Eddard Stark on Test 1
+67
+Test 1 added successfully to Tests
+Enter points earned for Jaime Lannister on Test 1
+78
+Test 1 added successfully to Tests
+Enter points earned for John Snow on Test 1
+67
+Test 1 added successfully to Tests
+Enter points earned for Khal Drogo on Test 1
+98
+Test 1 added successfully to Tests
+Enter points earned for Robert Baratheon on Test 1
+90
+Test 1 added successfully to Tests
+Enter points earned for Robb Stark on Test 1
+67
+Test 1 added successfully to Tests
+Enter points earned for Sansa Stark on Test 1
+99
+Test 1 added successfully to Tests
+Enter points earned for Samwell Tarly on Test 1
+100
+Test 1 added successfully to Tests
+Enter points earned for Theon Greyjoy on Test 1
+45
+Test 1 added successfully to Tests
+Enter points earned for The Hound on Test 1
+78
+Test 1 added successfully to Tests
+Enter points earned for Tormund on Test 1
+89
+Test 1 added successfully to Tests
+Enter points earned for Zombie Mountain on Test 1
+67
+Test 1 added successfully to Tests
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+3
+
+
+--------Class: ExampleClass1--------
+1: print single grade single student
+2: print all grades single student
+3: print single grade all students
+4: print total class average
+5: print single student average
+6: print single assignment average
+Enter a choice 1-6: 
+6
+
+
+Enter 0 to print a Homework grade.
+Enter 1 to print a Quiz grade.
+Enter 2 to print a Test grade.
+Enter 3 to  print a Project grade.
+Enter 4 to print an Attendance grade.
+Enter a number 0-4:
+2
+Enter Assignment Name:
+Test 1
+Average for Test 1 = 81.8125%
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+3
+
+
+--------Class: ExampleClass1--------
+1: print single grade single student
+2: print all grades single student
+3: print single grade all students
+4: print total class average
+5: print single student average
+6: print single assignment average
+Enter a choice 1-6: 
+4
+Arya Stark's Average: 99.090912%
+Catelyn Stark's Average: 90.000000%
+Cersei Lannister's Average: 77.272728%
+Daenerys Targaryen's Average: 97.272728%
+Eddard Stark's Average: 70.000000%
+Jaime Lannister's Average: 74.545456%
+John Snow's Average: 65.454544%
+Khal Drogo's Average: 90.909096%
+Robert Baratheon's Average: 84.545456%
+Robb Stark's Average: 69.090912%
+Sansa Stark's Average: 98.181824%
+Samwell Tarly's Average: 99.090912%
+Theon Greyjoy's Average: 44.545452%
+The Hound's Average: 71.818176%
+Tormund's Average: 80.909088%
+Zombie Mountain's Average: 61.818184%
+
+
+--Class Average--: 79%
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+4
+
+
+--------Class: ExampleClass1--------
+1: Save a report card for a student to a file
+2: Print a report card for a single student
+Enter a choice 1-2: 
+2
+Enter name of student:
+Sansa Stark
+Printing report card for Sansa Stark
+Sansa Stark
+Class: ExampleClass1
+
+
+---Homework---
+Points Possible: 10
+Points Earned: 9
+Average: 90%
+
+
+---Quizzes---
+Points Possible: 0
+Points Earned: 0
+Average: 0%
+
+
+---Tests---
+Points Possible: 100
+Points Earned: 99
+Average: 99%
+
+
+---Projects---
+Points Possible: 0
+Points Earned: 0
+Average: 0%
+
+
+---Attendance---
+Points Possible: 0
+Points Earned: 0
+Average: 0%
+
+
+---TOTAL GRADE---
+Points Possible: 110
+Points Earned: 108
+Grade: 98.1818%
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+5
+ExampleClass1 being saved to file ExampleClass1(Class).txt
+Saving grades for Arya Stark
+Saving grades for Catelyn Stark
+Saving grades for Cersei Lannister
+Saving grades for Daenerys Targaryen
+Saving grades for Eddard Stark
+Saving grades for Jaime Lannister
+Saving grades for John Snow
+Saving grades for Khal Drogo
+Saving grades for Robert Baratheon
+Saving grades for Robb Stark
+Saving grades for Sansa Stark
+Saving grades for Samwell Tarly
+Saving grades for Theon Greyjoy
+Saving grades for The Hound
+Saving grades for Tormund
+Saving grades for Zombie Mountain
+
+
+--------Class: ExampleClass1--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+6
+ExampleClass1 being saved to file ExampleClass1(Class).txt
+Saving grades for Arya Stark
+Saving grades for Catelyn Stark
+Saving grades for Cersei Lannister
+Saving grades for Daenerys Targaryen
+Saving grades for Eddard Stark
+Saving grades for Jaime Lannister
+Saving grades for John Snow
+Saving grades for Khal Drogo
+Saving grades for Robert Baratheon
+Saving grades for Robb Stark
+Saving grades for Sansa Stark
+Saving grades for Samwell Tarly
+Saving grades for Theon Greyjoy
+Saving grades for The Hound
+Saving grades for Tormund
+Saving grades for Zombie Mountain
+
+
+----MAIN MENU----
+1: Load a Class from File
+2: Create a new Class
+3: Print Current Classes
+4: Open a Class
+5: Remove a Class
+6: Help
+7: Quit
+7
+willloughlin:~/workspace/FinalProject2270 $

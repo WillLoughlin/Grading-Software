@@ -1,0 +1,45 @@
+exampleclass2
+6
+Joe Schmo
+Joseph Schmoseph
+John Doe
+Jay Leno
+Kynan Mccarty
+Steven Colbert
+---
+Joe Schmo
+0;Test Homework 2,10.000000,9.000000;Homework 1,10.000000,9.000000
+1
+2
+3
+4
+Joseph Schmoseph
+0;Homework 1,10.000000,8.000000
+1
+2
+3
+4
+John Doe
+0;Homework 1,10.000000,9.000000
+1
+2
+3
+4;Attendance 4/22,1.000000,1.000000
+Jay Leno
+0;Homework 1,10.000000,8.000000
+1
+2;Test 1,100.000000,90.000000
+3
+4;Attendance 4/22,1.000000,1.000000
+Kynan Mccarty
+0;Homework 7,10.000000,9.000000;Homework 1,10.000000,8.000000
+1
+2
+3;Project 1,70.000000,68.000000
+4;Attendance 4/22,1.000000,1.000000
+Steven Colbert
+0;Homework 1,10.000000,7.000000
+1
+2
+3
+4;Attendance 4/22,1.000000,0.000000

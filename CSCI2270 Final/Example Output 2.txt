@@ -1,0 +1,228 @@
+﻿willloughlin:~/workspace/FinalProject2270 $ ./a.out
+
+
+----MAIN MENU----
+1: Load a Class from File
+2: Create a new Class
+3: Print Current Classes
+4: Open a Class
+5: Remove a Class
+6: Help
+7: Quit
+1
+Enter name of class file:
+exampleclass2.txt
+Loading Class: exampleclass2
+Joe Schmo
+Joseph Schmoseph
+John Doe
+Kynan Mccarty
+Steven Colbert
+Jay Leno
+Test Homework 2 added successfully to Homework
+Homework 1 added successfully to Homework
+Homework 1 added successfully to Homework
+Homework 1 added successfully to Homework
+Attendance 4/22 added successfully to Attendance
+Homework 7 added successfully to Homework
+Homework 1 added successfully to Homework
+Project 1 added successfully to Projects
+Attendance 4/22 added successfully to Attendance
+Homework 1 added successfully to Homework
+Attendance 4/22 added successfully to Attendance
+Homework 1 added successfully to Homework
+Test 1 added successfully to Tests
+Attendance 4/22 added successfully to Attendance
+
+
+--------Class: exampleclass2--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+3
+
+
+--------Class: exampleclass2--------
+1: print single grade single student
+2: print all grades single student
+3: print single grade all students
+4: print total class average
+5: print single student average
+6: print single assignment average
+Enter a choice 1-6: 
+1
+Enter name of student: 
+Jay Leno
+Enter name of assignment: 
+Homework 1
+
+
+What kind of grade is it?
+0: Homework
+1: Quiz
+2: Test
+3: Project
+4: Attendance
+Enter a number 0-4:
+0
+Jay Leno: --Homework 1--
+Points Possible: 10
+Points Earned: 8
+Percent: 80%
+
+
+
+
+--------Class: exampleclass2--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+3
+
+
+--------Class: exampleclass2--------
+1: print single grade single student
+2: print all grades single student
+3: print single grade all students
+4: print total class average
+5: print single student average
+6: print single assignment average
+Enter a choice 1-6: 
+4
+Joe Schmo's Average: 90.000000%
+Joseph Schmoseph's Average: 80.000000%
+John Doe's Average: 90.909096%
+Jay Leno's Average: 89.189186%
+Kynan Mccarty's Average: 94.505493%
+Steven Colbert's Average: 63.636364%
+
+
+--Class Average--: 84%
+
+
+--------Class: exampleclass2--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+4
+
+
+--------Class: exampleclass2--------
+1: Save a report card for a student to a file
+2: Print a report card for a single student
+Enter a choice 1-2: 
+2
+Enter name of student:
+Joe Schmo
+Printing report card for Joe Schmo
+Joe Schmo
+Class: exampleclass2
+
+
+---Homework---
+Points Possible: 20
+Points Earned: 18
+Average: 90%
+
+
+---Quizzes---
+Points Possible: 0
+Points Earned: 0
+Average: 0%
+
+
+---Tests---
+Points Possible: 0
+Points Earned: 0
+Average: 0%
+
+
+---Projects---
+Points Possible: 0
+Points Earned: 0
+Average: 0%
+
+
+---Attendance---
+Points Possible: 0
+Points Earned: 0
+Average: 0%
+
+
+---TOTAL GRADE---
+Points Possible: 20
+Points Earned: 18
+Grade: 90%
+
+
+--------Class: exampleclass2--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+5
+exampleclass2 being saved to file exampleclass2(Class).txt
+Saving grades for Joe Schmo
+Saving grades for Joseph Schmoseph
+Saving grades for John Doe
+Saving grades for Jay Leno
+Saving grades for Kynan Mccarty
+Saving grades for Steven Colbert
+
+
+--------Class: exampleclass2--------
+1: Add, Remove, or Load students
+2: Add, Remove, or Edit a grade
+3: Calculate grades
+4: Create Report Cards
+5: Save Class
+6: Save and Quit
+Enter a choice 1-6: 
+6
+exampleclass2 being saved to file exampleclass2(Class).txt
+Saving grades for Joe Schmo
+Saving grades for Joseph Schmoseph
+Saving grades for John Doe
+Saving grades for Jay Leno
+Saving grades for Kynan Mccarty
+Saving grades for Steven Colbert
+
+
+----MAIN MENU----
+1: Load a Class from File
+2: Create a new Class
+3: Print Current Classes
+4: Open a Class
+5: Remove a Class
+6: Help
+7: Quit
+3
+Classes currently open:
+exampleclass2
+
+
+----MAIN MENU----
+1: Load a Class from File
+2: Create a new Class
+3: Print Current Classes
+4: Open a Class
+5: Remove a Class
+6: Help
+7: Quit
+7
+willloughlin:~/workspace/FinalProject2270 $
